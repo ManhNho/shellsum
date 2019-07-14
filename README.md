@@ -1,2 +1,4 @@
-# shellsum
-A defense tool - detect web shells in local system via md5sum
+gitclone
+chmod 755 -R shellsum/
+pip install -r requirements.txt
+python shellsum.py
