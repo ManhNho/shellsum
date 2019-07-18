@@ -9,7 +9,7 @@ A defense tool - detect web shells in local directories via md5sum
 - [x] Fast speed
 - [x] Lightweight
 - [x] Big database
-- [x] Tabled output
+- [x] Table output
 
 #### Usages
 - Install
@@ -35,3 +35,4 @@ python shellsum.py
 
 #### References
 - https://github.com/tennc/webshell
+- https://www.kitploit.com/2019/07/shellsum-defense-tool-detect-web-shells.html
